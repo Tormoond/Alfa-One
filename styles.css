@@ -1,0 +1,245 @@
+body {
+    /* font-family это шрифт с google fons n */
+     font-family: 'Montserrat', sans-serif;
+     background-color: #f5f7fa;
+ }
+ 
+ .Main_conteiner{
+ display: flex;
+ flex-direction: row-reverse;
+ width: 1200px;
+ background-color: #f5f7fa;
+ margin: 40px auto;
+ box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+ 
+ }
+ 
+ /*main conteiner section */
+ 
+ .Main_content_sactoin{
+     padding: 100px 90px; }
+ 
+     .Main_content_Title {
+         font-style: normal;
+         font-weight: 700;
+         font-size: 22px;
+         line-height: 27px;
+         color: #000;
+         margin-bottom: 10px;}
+ 
+ 
+ /*about me sectoin */ 
+ 
+ .about_me_saction{
+     margin: 0 0 40px 0;
+ }
+ 
+ .project-item {
+     color: #000;
+     font-weight: bold
+ }
+ 
+ .about_me_proffesion {
+     font-style: normal;
+     font-weight: 700;
+     font-size: 14px;
+     line-height: 17px;
+     color: black;
+      margin: 0 0 20px 0;}
+      
+      .My-Name {
+         font-style: normal;
+         font-weight: 700;
+         font-size: 45px;
+         line-height: 55px;
+         color: black;
+         padding: 0 0 25px 0;
+ 
+      }
+      .about_me_deskription {
+         width: 400px;
+         font-style: normal;
+         font-weight: 400;
+         font-size: 14px;
+         line-height: 24px;
+         color: #595959;
+      }
+ 
+     .My_work_expirence_duti_item {
+         font-style: normal;
+         font-weight: 400;
+         font-size: 14px;
+         line-height: 24px;
+         color: #595959;
+ 
+ 
+     }
+ 
+      /* my project section */
+      .my_projects_saction {
+         color: black
+      }
+      .Tech_Scill_text {
+         font-style: normal;
+         font-weight: 400;
+         font-size: 14px;
+         line-height: 24px;
+         color: #595959; }
+ 
+      /* My_work_expirence */
+ 
+      .My_work_expirence_duties{
+         padding: 0 0 0 20px;
+      }
+ 
+      .Slash {
+         font-style: normal;
+         font-weight: 400;
+         font-size: 12px;
+         line-height: 15px;
+         color: #000;
+      }
+ 
+      .My_work_expirence_Kompany {
+         color:#FB6D3A;}
+ 
+      .My_work_expirence_division {
+         font-style: normal;
+         font-weight: 700;
+         font-size: 16px;
+         line-height: 20px;
+         color: #000;
+         margin: 0 0 10px 0;
+         }
+ 
+         .My_work_expirence_time {
+             font-style: normal;
+             font-weight: 400;
+             font-size: 12px;
+             line-height: 15px;
+             color: #A8A8A8;
+ 
+         }
+ 
+ 
+      .my_projects_list {
+         padding: 0 0 0 20 px; 
+          }
+ 
+         .My_projekt_link {
+             font-style: normal;
+             font-weight: 400;
+             font-size: 14px;
+             line-height: 24px;
+             color: #595959 }
+ 
+         .My_projekt_text {
+             font-style: normal;
+             font-weight: 400;
+             font-size: 14px;
+             line-height: 24px;
+          
+             color: #595959
+             }
+ 
+         .My_projekt_Brecet {
+             font-style: normal;
+             font-weight: 700;
+             font-size: 14px;
+             line-height: 24px;
+             color: #000;
+         }
+ 
+  /* Sidebar sectoin */
+ 
+     .sidebar_section {
+     width: 370px;
+     padding: 40px 0 0 ;
+     background-color: rgb(7, 71, 71);}
+     
+     .sidebar_titile { 
+         padding: 0 0 0 25px;
+         font-style: normal;
+         font-weight: 700;
+         font-size: 22px;
+         line-height: 27px;
+         color: #ffffff;
+         margin-bottom: 10px;
+     }
+     .Tech_Scill_title {
+         padding: 0 0 0 25px;
+         font-style: normal;
+         font-weight: 700;
+         font-size: 22px;
+         line-height: 27px;
+         color: #ffffff;
+         margin-bottom: 10px;
+     }
+     .Soft_skils_title{
+         padding: 0 0 0 25px;
+         font-style: normal;
+         font-weight: 700;
+         font-size: 22px;
+         line-height: 27px;
+         color: #ffffff;
+         margin-bottom: 10px;
+ 
+     }
+    
+ 
+              /* Contact saction */
+ 
+     .contact_saction_tipe{
+         font-style: bold;
+         padding: 0 0 0 25px;
+         font-weight: 700;
+         font-size: 14px;
+         line-height: 24px;
+         color: rgb(255, 255, 255);
+         margin-right: 5px;
+ 
+     }
+     .contact_saction_link{
+         padding: 0 0 0 5px;
+         color: #c0c6cf;
+         width: 183px;
+          height: 83px;
+          left: 80px;
+          top: 485px; 
+     }
+            /* End of contact section */
+ 
+ 
+               /* Tech scills section */
+    
+   
+     .Tech_Scill_item{
+         color: rgb(119, 141, 38);
+     }
+     .Tech_Scill_text {
+         font-style: normal;
+         font-weight: 400;
+         font-size: 14px;
+         line-height: 24px;
+         color: #f5f7fa;
+     }
+ 
+                /* Soft skils section */
+ 
+   
+     .Soft_skils_list{
+         font-style: normal;
+         font-weight: 400;
+         font-size: 14px;
+         line-height: 24px;
+         color: #f5f7fa;
+     }
+ 
+     .Soft_skils_item{
+         color: rgb(161, 201, 16);
+          }
+ 
+     .Soft_skils_text{
+         color: #f5f7fa;
+     }
+ 
